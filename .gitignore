@@ -9,5 +9,9 @@ __pycache__
 .coverage
 .idea
 *.iml
+<<<<<<< HEAD
 .ipynb_checkpoints/
 
+=======
+.*
+>>>>>>> 228ffec772d5165d4183116adbe533b60e89b046
